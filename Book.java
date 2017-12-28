@@ -11,6 +11,8 @@ public class Book {
 	private String pic;
 	
 	private String desc;
+	
+	privete String a;
 
 	
 
